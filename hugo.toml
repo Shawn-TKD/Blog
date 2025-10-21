@@ -4,5 +4,10 @@ baseURL = 'https://Shawn-TKD.github.io/Blog/'
  publishDir = "docs"
 author = 'Shawn'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 description = '我是Shawn 这是我的blog 我专注在区块链、AI和消费品投资'
