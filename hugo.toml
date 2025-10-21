@@ -1,6 +1,7 @@
-baseURL = 'https://Shawn-TKD.github.io/blog/'
-languageCode = 'zh-cn'
-title = '肖恩的部落格'
+baseURL = 'https://Shawn-TKD.github.io/Blog/'
+ languageCode = 'zh-cn'
+ title = '肖恩的部落格'
+ publishDir = "docs"
 author = 'Shawn'
 
 [params]

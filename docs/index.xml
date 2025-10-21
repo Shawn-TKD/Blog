@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>肖恩的部落格</title>
+    <link>https://Shawn-TKD.github.io/Blog/</link>
+    <description>Recent content on 肖恩的部落格</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Shawn-TKD.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Costco创业思考</title>
+      <link>https://Shawn-TKD.github.io/Blog/posts/costco%E5%88%9B%E4%B8%9A%E6%80%9D%E8%80%83/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://Shawn-TKD.github.io/Blog/posts/costco%E5%88%9B%E4%B8%9A%E6%80%9D%E8%80%83/</guid>
+      <description>&lt;p&gt;大白菜小白菜，青的菜和白的菜&#xA;你好你好你好&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>广州酒家创业思考</title>
+      <link>https://Shawn-TKD.github.io/Blog/posts/%E5%B9%BF%E5%B7%9E%E9%85%92%E5%AE%B6%E5%88%9B%E4%B8%9A%E6%80%9D%E8%80%83/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://Shawn-TKD.github.io/Blog/posts/%E5%B9%BF%E5%B7%9E%E9%85%92%E5%AE%B6%E5%88%9B%E4%B8%9A%E6%80%9D%E8%80%83/</guid>
+      <description>&lt;p&gt;大白菜小白菜，青的菜和白的菜&#xA;你好你好你好&#xA;广州酒家好好吃啊&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>测试博客</title>
+      <link>https://Shawn-TKD.github.io/Blog/posts/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://Shawn-TKD.github.io/Blog/posts/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h1&gt;&#xA;&lt;p&gt;这是我使用Hugo创建的第一篇博客文章。&lt;/p&gt;&#xA;&lt;h2 id=&#34;关于这个博客&#34;&gt;关于这个博客&lt;/h2&gt;&#xA;&lt;p&gt;这个博客使用了Hugo框架和极简风格的主题，主要用于分享我的学习心得和技术笔记。&lt;/p&gt;&#xA;&lt;h2 id=&#34;未来计划&#34;&gt;未来计划&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;分享更多技术文章&lt;/li&gt;&#xA;&lt;li&gt;记录项目经验&lt;/li&gt;&#xA;&lt;li&gt;学习心得总结&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;感谢您的访问！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
