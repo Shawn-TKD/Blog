@@ -1,0 +1,20 @@
+{{ define "main" }}
+    <section class="hero">
+        <h2>最新文章</h2>
+    </section>
+    
+    <section class="posts">
+        <ul class="post-list">
+            {{ range .Site.RegularPages }}
+            <li class="post-item">
+                <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <div class="post-date">{{ .Date.Format "2006-01-02" }}</div>
+                <div class="post-excerpt">{{ .Summary }}</div>
+                <a href="{{ .Permalink }}" class="read-more">阅读更多 →</a>
+            </li>
+            {{ else }}
+            <p>还没有文章，快来创建你的第一篇博客吧！</p>
+            {{ end }}
+        </ul>
+    </section>
+{{ end }}

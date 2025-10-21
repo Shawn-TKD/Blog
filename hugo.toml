@@ -1,0 +1,7 @@
+baseURL = 'https://Shawn-TKD.github.io/blog/'
+languageCode = 'zh-cn'
+title = '肖恩的部落格'
+author = 'Shawn'
+
+[params]
+description = '我是Shawn 这是我的blog 我专注在区块链、AI和消费品投资'

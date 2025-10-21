@@ -1,0 +1,28 @@
+{{ define "main" }}
+    <article class="post">
+        <header class="post-header">
+            <h1 class="post-title">{{ .Title }}</h1>
+            <div class="post-date">{{ .Date.Format "2006-01-02" }}</div>
+        </header>
+        
+        <div class="post-content">
+            {{ .Content }}
+        </div>
+        
+        <nav class="post-nav">
+            {{ with .PrevInSection }}
+            <div class="prev-post">
+                <a href="{{ .Permalink }}">← 上一篇</a>
+                <div class="prev-title">{{ .Title }}</div>
+            </div>
+            {{ end }}
+            
+            {{ with .NextInSection }}
+            <div class="next-post">
+                <a href="{{ .Permalink }}">下一篇 →</a>
+                <div class="next-title">{{ .Title }}</div>
+            </div>
+            {{ end }}
+        </nav>
+    </article>
+{{ end }}
